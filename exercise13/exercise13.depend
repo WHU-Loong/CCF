@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573698409 source:g:\ccf\exercise13\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

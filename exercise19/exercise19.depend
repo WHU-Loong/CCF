@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1575549560 source:g:\ccf\exercise19\main.cpp
+	<iostream>
+	<algorithm>
+
+1575550655 source:g:\ccf\exercise19\1.cpp
+
+1575552914 source:g:\ccf\exercise19\2.cpp
+	<iostream>
+	<algorithm>
+
